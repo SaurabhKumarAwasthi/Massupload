@@ -1,0 +1,17 @@
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.csprojAssemblyReference.cache
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MainWindow.baml
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MainWindow.g.cs
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\App.g.cs
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication_MarkupCompile.cache
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.g.resources
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.Properties.Resources.resources
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.csproj.GenerateResource.cache
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.csproj.CoreCompileInputs.cache
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\bin\Debug\MassuploadApplication.exe.config
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\bin\Debug\MassuploadApplication.exe
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\bin\Debug\MassuploadApplication.pdb
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\bin\Debug\System.Data.OleDb.dll
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\bin\Debug\System.Data.OleDb.xml
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.csproj.CopyComplete
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.exe
+C:\Users\awasths\source\repos\MassuploadApplication\MassuploadApplication\obj\Debug\MassuploadApplication.pdb
